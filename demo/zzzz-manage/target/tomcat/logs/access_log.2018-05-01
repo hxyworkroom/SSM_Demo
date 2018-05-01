@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [01/May/2018:19:55:47 +0800] "GET /zzzz-manage/index.html HTTP/1.1" 404 995 http-bio-8848-exec-1 952
+0:0:0:0:0:0:0:1 - - [01/May/2018:19:55:47 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8848-exec-3 0
+0:0:0:0:0:0:0:1 - - [01/May/2018:19:55:51 +0800] "GET /zzzz-manage HTTP/1.1" 302 - http-bio-8848-exec-4 0
+0:0:0:0:0:0:0:1 - - [01/May/2018:19:55:51 +0800] "GET /zzzz-manage/ HTTP/1.1" 200 578 http-bio-8848-exec-7 190
+0:0:0:0:0:0:0:1 - - [01/May/2018:19:55:55 +0800] "GET /zzzz-manage/hello/index HTTP/1.1" 200 307 http-bio-8848-exec-9 59
+0:0:0:0:0:0:0:1 - - [01/May/2018:19:56:12 +0800] "GET /zzzz-manage/hello/findAllUser HTTP/1.1" 500 137173 http-bio-8848-exec-10 14354
