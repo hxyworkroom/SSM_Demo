@@ -1,4 +1,4 @@
-# ssmdemo
+# about this demo
 this is a ssm demo ,i use it to test my testsoft
 
 
@@ -39,5 +39,5 @@ this is a ssm demo ,i use it to test my testsoft
 so
 
 
-杠精滚粗！！！！！！！！！！！！！！！！
+别抬杠
 
